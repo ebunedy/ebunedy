@@ -2,7 +2,7 @@
 - 👀 I’m interested in Learning and Teaching
 - 🌱 I’m currently learning Full Stack MERN Applications
 - 💞️ I’m looking to collaborate on React Projects
-- 📫 How to reach me ...
+- 📫 How to reach me on GitHub @ GitHub.com/ebunedy and on twitter @ebune_dany 
 
 <!---
 ebunedy/ebunedy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
