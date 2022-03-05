@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ebunedy
-- 👀 I’m interested in Learning and Teaching
+- 👀 I’m interested in building projects, learning, teaching and upscaling my skills
 - 🌱 I’m currently learning Full Stack MERN Applications
 - 💞️ I’m looking for collaborate on React Projects
 - 📫 Reach me on GitHub @ GitHub.com/ebunedy and on twitter @ebune_dany 
