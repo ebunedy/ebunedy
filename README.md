@@ -9,7 +9,7 @@ I'm a Software Engineer, who work currently as a freelance fullstack developer. 
 - 🌱 I’m currently building Fullstack Applications
 - 💼 Job interests: Software Engineer, Front-End Engineer, Back-End Engineer(Intern or Junior level).
 - 💞️ I’m looking for collaboration on React, NEXT and Node Projects
-- 📫 Reach me on GitHub github.com/ebunedy
+- 📫 Reach me on GitHub ebunedy@gmail.com
 
 <!---
 ebunedy/ebunedy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
