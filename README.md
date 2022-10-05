@@ -1,12 +1,12 @@
 [![Linkedin Badge](https://img.shields.io/badge/-ebunedaniel-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ebune-daniel-y)](https://www.linkedin.com/in/ebune-daniel-y) [![Twitter Badge](https://img.shields.io/badge/-@ebune_dany-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/ebune_dany)](https://twitter.com/ebune_dany)
 
-I'm a Software Engineer, and tech lover. I'm passionate about sharing knowledge, web engineering, learning and building great open-source projects
+I'm a Software Engineer, and tech lover, who's passionate about sharing knowledge, web engineering, learning and building great open-source projects
 
-- 👋 Hi, I’m Ebune Daniel Y
+- 👋 Hi, I’m Ebune Daniel Yahya
 - 😊 Pronouns: He/him
 - 👀 I’m interested in building projects, learning, teaching and upscaling my skills
-- 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
-- 🌱 I’m currently building Fullstack Applications
+- 😊 I’m looking for open source projects, hackathons and entry-level opportunities.
+- 🌱 Currently building Fullstack Applications
 - 💼 Job interests: Software Engineer, Front and Back-End Engineer (Intern or Junior level).
 - 💞️ I’m looking for collaboration on ReactJs, NextJs and NodeJs Projects
 - 📫 Reach me through [ebunedy@gmail.com](mailto:ebunedy@gmail.com)
