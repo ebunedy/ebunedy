@@ -5,10 +5,10 @@ I'm a Software Engineer, and tech lover, who's passionate about sharing knowledg
 - 👋 Hi, I’m Ebune Daniel Yahya
 - 😊 Pronouns: He/him
 - 👀 I’m interested in building projects, learning, teaching and upscaling my skills
-- 😊 I’m looking for open source projects, hackathons and entry-level opportunities.
-- 🌱 Currently building Fullstack Applications
-- 💼 Job interests: Software Engineer, Front and Back-End Engineer (Intern or Junior level).
-- 💞️ I’m looking for collaboration on ReactJs, NextJs and NodeJs Projects
+- 😊 I’m looking for open source projects, hackathons and mid-level opportunities.
+- 🌱 Currently building a backend service Applications
+- 💼 Job interests: Software Engineer, Backe(nd Engineer (mid level).
+- 💞️ I’m looking for collaboration on GO, NodeJs and Dart Projects
 - 📫 Reach me through [ebunedy@gmail.com](mailto:ebunedy@gmail.com)
 
 # 💻 Tech Stack:
